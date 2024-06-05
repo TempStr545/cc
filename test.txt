@@ -33,7 +33,6 @@
 159.89.197.55:8443#Digitalocean
 157.245.159.127:8443#Digitalocean
 68.183.236.78:8443#Digitalocean
-2400:6180:0:d0::1702:d001:443#Digitalocean
 128.199.119.164:443#Digitalocean
 146.190.89.36:8443#Digitalocean
 146.190.108.153:8443#Digitalocean
